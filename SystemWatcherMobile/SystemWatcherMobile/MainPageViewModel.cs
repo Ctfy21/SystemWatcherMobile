@@ -19,6 +19,7 @@ namespace SystemWatcherMobile
         {
             AuthSecret = "JuN06Hm78gQ5sMRoNPjUDHOiprp7B3Jq1GVxYY2h",
             BasePath = "https://watcherservice-1810a-default-rtdb.europe-west1.firebasedatabase.app/"
+
         };
         IFirebaseClient client;
 
